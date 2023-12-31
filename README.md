@@ -1,7 +1,7 @@
 Hi 👋 My name is Jittapol Srisawang
 ===================================
 
-Web Developer
+Software Developer
 -------------
 
 * 🌍  I'm based in Kanchanaburi, Thailand
